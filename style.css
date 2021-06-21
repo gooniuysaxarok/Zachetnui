@@ -1,0 +1,43 @@
+.all-cont{
+    margin: auto;
+    background-color: blue;
+    width: 1920px;
+}
+.first-block{
+    background-image: url(fotomaketov/bg_photo_11949.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 1920px;
+height: 1024px;
+background-color: rgba(17,17,17,0.7);
+}
+
+.pox{
+    text-decoration: none;
+}
+
+.logo{
+    font-family: Raleway;
+font-size: 34px;
+line-height: 1.2;
+font-weight: 400;
+letter-spacing: -0.04em;
+color: #ffffff;
+}
+
+.headd{
+    display: flex;
+}
+
+.icon-head{
+    display: flex;
+    margin: 40px 0 0 376px;
+}
+.site-logo{
+    margin-top: 30px;
+}
