@@ -36,8 +36,86 @@ color: #ffffff;
 
 .icon-head{
     display: flex;
-    margin: 40px 0 0 376px;
+    margin: 17px 0 0 376px;
 }
 .site-logo{
     margin-top: 30px;
+}
+.navigation{
+    display: flex;
+    list-style-type: none;
+    margin-left: 219px;
+    margin-top: 62px;
+}
+.spisok{
+    padding-right: 29px;
+}
+.ssulka{
+    text-decoration: none;
+    font-family: Montserrat;
+font-size: 14px;
+line-height: 1.2;
+font-weight: 300;
+color: #ffffff;
+}
+.inf{
+    display: flex;
+}
+.firstbut{
+    width: 18px;
+height: 24px;
+background-image: none; 
+background-color: transparent;
+padding-right: 28px;
+}
+.secbut{
+    width: 24px;
+    height: 24px;
+}
+.proba{
+    margin:55px 0 0 63px;
+}
+.main-info{
+display:flex;
+margin-top: 209px;
+justify-content: space-around;
+}
+.arrow{
+    width: 40px;
+    height: 73px;
+    opacity: 0.5;
+}
+.sosi{
+    display: flex;
+}
+.lolipop{
+    width: 40px;
+height: 73px;
+
+}
+.wasd{
+    max-width: 460px;
+    margin-right:475px ;
+    Text: Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.;
+font-family: Montserrat;
+font-size: 16px;
+line-height: 24px;
+font-weight: 300;
+color: #ffffff;
+}
+.head3{
+    Text: Unique and Modern Design;
+    font-family: Raleway;
+    font-size: 36px;
+    line-height: 1.2;
+    font-weight: 500;
+    color: #ffffff;
+}
+.head2{
+    Text: Portfolio PSD Template;
+font-family: Raleway;
+font-size: 52px;
+line-height: 1.2;
+font-weight: 800;
+color: #ffffff;
 }
