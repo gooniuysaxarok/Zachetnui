@@ -78,12 +78,14 @@ padding-right: 28px;
 .main-info{
 display:flex;
 margin-top: 209px;
-justify-content: space-around;
+justify-content: space-between;
 }
 .arrow{
     width: 40px;
     height: 73px;
     opacity: 0.5;
+    margin-top: 170px;
+    margin-left: 150px;
 }
 .sosi{
     display: flex;
@@ -91,16 +93,20 @@ justify-content: space-around;
 .lolipop{
     width: 40px;
 height: 73px;
+margin-top: 170px;
+margin-right: 150px;
 
 }
 .wasd{
-    max-width: 460px;
+    max-width: 590px;
     margin-right:475px ;
 font-family: Montserrat;
 font-size: 16px;
 line-height: 24px;
 font-weight: 300;
 color: #ffffff;
+letter-spacing: 2px;
+padding-left: 14px;
 }
 .head3{
     font-family: Raleway;
@@ -108,6 +114,7 @@ color: #ffffff;
     line-height: 1.2;
     font-weight: 500;
     color: #ffffff;
+    padding-left:66px;
 }
 .head2{
 font-family: Raleway;
@@ -115,4 +122,7 @@ font-size: 52px;
 line-height: 1.2;
 font-weight: 800;
 color: #ffffff;
+}
+.gst{
+
 }
