@@ -98,7 +98,7 @@ margin-right: 150px;
 
 }
 .wasd{
-    max-width: 590px;
+    
     margin-right:475px ;
 font-family: Montserrat;
 font-size: 16px;
@@ -124,5 +124,29 @@ font-weight: 800;
 color: #ffffff;
 }
 .gst{
-
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+    width: 170px;
+height: 53px;
+background-color: #998675;
+box-shadow: inset 0px -3px 0px 0px #736357;
+border-radius: 3px;
+margin-left: 190px;
+}
+.spisok{
+    list-style-type: none;
+    padding-right: 10px;
+}
+.main-spisok{
+    display: flex;
+    margin-top: 265px;
+    margin-left: 909px;
+}
+.hue{
+    margin-left: 550px;
 }
