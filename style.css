@@ -57,6 +57,7 @@ font-size: 14px;
 line-height: 1.2;
 font-weight: 300;
 color: #ffffff;
+letter-spacing: 2px;
 }
 .inf{
     display: flex;
@@ -98,7 +99,7 @@ margin-right: 150px;
 
 }
 .wasd{
-    
+    max-width: 500px;
     margin-right:475px ;
 font-family: Montserrat;
 font-size: 16px;
@@ -107,6 +108,7 @@ font-weight: 300;
 color: #ffffff;
 letter-spacing: 2px;
 padding-left: 14px;
+margin-top: 185px;
 }
 .head3{
     font-family: Raleway;
@@ -115,6 +117,8 @@ padding-left: 14px;
     font-weight: 500;
     color: #ffffff;
     padding-left:66px;
+    position: absolute;
+    margin-top: 60px;
 }
 .head2{
 font-family: Raleway;
@@ -122,6 +126,8 @@ font-size: 52px;
 line-height: 1.2;
 font-weight: 800;
 color: #ffffff;
+position:absolute;
+margin-top: 110px;
 }
 .gst{
     font-family: Raleway;
@@ -136,7 +142,7 @@ height: 53px;
 background-color: #998675;
 box-shadow: inset 0px -3px 0px 0px #736357;
 border-radius: 3px;
-margin-left: 190px;
+margin-left: 175px;
 }
 .spisok{
     list-style-type: none;
@@ -144,9 +150,10 @@ margin-left: 190px;
 }
 .main-spisok{
     display: flex;
-    margin-top: 265px;
+    margin-top: 310px;
     margin-left: 909px;
 }
 .hue{
     margin-left: 550px;
+    position:relative;
 }
