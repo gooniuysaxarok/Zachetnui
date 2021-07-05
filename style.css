@@ -1,6 +1,5 @@
 .all-cont{
     margin: auto;
-    background-color: blue;
     width: 1920px;
 }
 .first-block{
@@ -156,4 +155,408 @@ margin-left: 175px;
 .hue{
     margin-left: 550px;
     position:relative;
+}
+.start-second-block{
+    display:flex;
+    padding-top: 80px;
+    justify-content: space-around;
+    text-align: center;
+    margin-left: 376px;
+    margin-right: 376px;
+}
+.h4vse{
+    font-family: Raleway;
+font-size: 22px;
+line-height: 1.2;
+font-weight: 600;
+color: #555555;
+text-align: center;
+}
+.pvse{
+    font-family: Montserrat;
+font-size: 14px;
+line-height: 24px;
+font-weight: 300;
+color: #8c8c8c;
+letter-spacing: 2px;
+max-width: 250px;
+text-align: center;
+}
+.section-fotolist{
+    margin-top: 165px;
+    text-align: center;
+}
+.leftfoto{
+position:absolute;
+margin-top: 122px;
+}
+.centerfoto{
+position: relative;
+margin-left: 230px;
+margin-top: 40px;
+}
+.rightfoto{
+position: absolute;
+margin-left: 460px;
+margin-top: 122px;
+}
+.foto{
+display: flex;
+margin-top:40px;
+margin-left: 346px;
+}
+.h3geto{
+    font-family: Raleway;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 600;
+    color: #555555;
+}
+.parag{
+    font-family: Montserrat;
+font-size: 16px;
+letter-spacing: 0.5px;
+line-height: 28px;
+font-weight: 300;
+color: #8c8c8c;
+max-width: 580px;
+margin-left: 685px;
+}
+.art{
+    width: 1920px;
+height: 150px;
+background-image:url(fotomaketov/background_brown.png);
+display: flex;
+justify-content: space-between;
+}
+.nevazh{
+margin-left: 376px;
+padding-top: 12px;
+}
+.headwof{
+ font-family: Raleway;
+ font-size: 28px;
+ line-height: 1.2;
+ font-weight: 400;
+ color: #c7b299;
+ color: #ffffff;
+ position: relative;
+ margin-bottom: 0;
+}
+.donfog{
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 300;
+    color: #615855;
+    position: absolute;
+}
+.purbut{
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #ffffff;
+    width: 170px;
+height: 50px;
+background-color: #998675;
+box-shadow: inset 0px -3px 0px 0px #736357;
+border-radius: 3px;
+margin-top:50px;
+margin-right: 376px;
+}
+
+.main-heading{
+    font-family: Raleway;
+font-size: 30px;
+line-height: 1.2;
+font-weight: 600;
+color: #555555;
+margin-left: 823px;
+margin-top: 81px;
+}
+.main-paragraph{
+    font-family: Montserrat;
+font-size: 16px;
+line-height: 28px;
+font-weight: 300;
+color: #8c8c8c;
+max-width: 790px;
+margin-left: 583px;
+position:relative;
+text-align: center;
+}
+.button1{
+    width: 70px;
+height: 32px;
+background-color: #998675;
+border-radius: 3px;
+font-family: Montserrat;
+font-size: 14px;
+line-height: 21px;
+font-weight: 300;
+color: #ffffff;
+margin-top: 18px;
+margin-bottom: 48px;
+margin-right: 5px;
+margin-left: 658px;
+}
+.button-other{
+    width: 120px;
+height: 32px;
+background-color: rgba(17,17,17,0.0);
+border: 1px solid #ebebeb;
+border-radius: 3px;
+font-family: Montserrat;
+font-size: 14px;
+line-height: 21px;
+font-weight: 300;
+color: #8c8c8c;
+margin-right: 5px;
+}
+.first-stroka-img{
+    display: flex;
+    margin-left: 376px;
+}
+.second-stroka-img{
+    display: flex;
+    margin-left: 376px;
+}
+.imgbag{
+    width: 370px;
+height: 237px;
+background-color: #8c8c8c;
+padding: 0;
+}
+.her{
+    font-family: Raleway;
+font-size: 20px;
+line-height: 1.2;
+font-weight: 500;
+color: #c7b299;
+padding-left: 29px;
+position: absolute;
+}
+.per{
+    font-family: Montserrat;
+font-size: 14px;
+line-height: 20px;
+font-weight: 300;
+color: #d1d1d1;
+padding-left: 29px;
+position: relative;
+margin-top: 50px;
+margin-bottom: 27px;
+}
+.load-more{
+    margin-left:920px;
+    width: 170px;
+height: 50px;
+background-color: #998675;
+box-shadow: inset 0px -3px 0px 0px #736357;
+border-radius: 3px;
+font-family: Raleway;
+font-size: 14px;
+line-height: 23px;
+font-weight: 800;
+text-transform: uppercase;
+color: #ffffff;
+margin-top: 40px;
+margin-bottom: 80px;
+
+}
+.mainblocks228{
+    background-color: #362f2d;
+    margin-bottom: 30px;
+    margin-right:30px;
+}
+.main-blocks{
+    margin-bottom: 30px;
+    margin-right:30px;
+    background-color: #fbfaf8;
+}
+.timeback{
+    width: 1920px;
+height: 705px;
+background-color: rgba(17,17,17,0.5);
+text-align: center;
+background-image: url(fotomaketov/piska.png);
+
+}
+.icon-play{
+    margin-top: 225px;
+    position: relative;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    opacity: 0.2;
+    background-color: #000000;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 210px;
+}
+.pushka{
+margin-left: 100px;
+}
+.koba{
+    font-family: Raleway;
+font-size: 30px;
+line-height: 1.2;
+font-weight: 500;
+color: #ffffff;
+padding-top:25px;
+position: absolute;
+margin-left: 768px;
+}
+.cov{
+    font-family: Montserrat;
+font-size: 16px;
+line-height: 28px;
+font-weight: 300;
+color: #ffffff;
+letter-spacing: 1px;
+max-width: 570px;
+margin-left: 616px;
+position: absolute;
+margin-top: 95px;
+}
+.time{
+    font-family: Montserrat;
+font-size: 14px;
+line-height: 24px;
+font-weight: 400;
+color: #c7b299;
+margin-top: 178px;
+}
+.artic{
+    width: 1920px;
+height: 695px;
+background-color: #fbfaf8;
+display: flex;
+}
+.bezh{
+    display: flex;
+    
+}
+.und-bezh{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.und-bezh-title{
+    width: 21px;
+height: 21px;
+padding-bottom:12px;
+margin-left: 79px;
+}
+.li-bezh{
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: 300;
+    color: #8c8c8c;
+    list-style-type: none;
+    
+}
+.bezh-h2{
+    font-family: Raleway;
+font-size: 30px;
+line-height: 1.2;
+font-weight: 600;
+color: #555555;
+margin-top: 193px;
+margin-left: 31px;
+}
+.bezh-par{
+    font-family: Montserrat;
+font-size: 16px;
+line-height: 28px;
+font-weight: 300;
+color: #8c8c8c;
+max-width: 550px;
+margin-left: 31px;
+}
+.bezh-img{
+   margin: 79px 0 0 423px;
+}
+.artun{
+    width: 1920px;
+height: 300px;
+background-color: #f4f5f8;
+    background-image:url(fotomaketov/background_brown.png);
+    display: flex;
+    justify-content: space-between;
+}
+.tekashi{
+    margin-left: 496px;
+}
+.tekasu{
+    margin-right: 504px;
+}
+.tundra{
+    position: absolute;
+    margin-top: 69px;
+    width: 44px;
+height: 44px;
+
+}
+.nigato{
+    font-family: Montserrat;
+    font-size: 48px;
+    line-height: 36px;
+    font-weight: 200;
+    color: #ffffff;
+position: absolute;
+margin-top: 143px;
+}
+.nigshi{
+position: absolute;
+margin-top: 198px;
+font-family: Montserrat;
+font-size: 14px;
+line-height: 20px;
+font-weight: 300;
+text-transform: uppercase;
+color: #c7b299;
+}
+.aboba{
+    position: absolute;
+    margin-top: 238px;
+    width: 30px;
+height: 2px;
+background-color: #ffffff;
+}
+.hobbit{
+    width: 1920px;
+height: 6970px;
+}
+.arduino{
+    display: flex;
+    justify-content: space-around;
+}
+.makasi{
+text-align: center;
+font-family: Raleway;
+font-size: 30px;
+line-height: 1.2;
+font-weight: 600;
+color: #555555;
+}
+.verusi{
+text-align: center;
+max-width: 650px;
+margin-left: 650px;
+font-family: Montserrat;
+font-size: 16px;
+line-height: 28px;
+font-weight: 300;
+color: #8c8c8c;
+}
+.gachi{
+    margin-left: 376px;
+}
+.ben{
+    margin-right: 374px;
 }
